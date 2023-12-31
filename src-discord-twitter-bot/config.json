@@ -6,7 +6,7 @@
     "embed": true,
     "spoiler": false,
     "parameters": {
-      "q": "from:@NoContextWeeb exclude:replies exclude:retweets",
+      "q": "from:@@goygoyengine exclude:replies exclude:retweets",
       "result_type": "recent",
       "count": 1
     }
